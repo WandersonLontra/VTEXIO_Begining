@@ -1,7 +1,6 @@
 {
   "store.home": {
     "blocks": [
-      "countdown",
       "stack-layout#cta",
       "flex-layout.row",
       "slider-layout#home",

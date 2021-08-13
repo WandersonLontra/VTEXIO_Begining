@@ -68,7 +68,9 @@
       "sku-selector",
       "flex-layout.row#buy-button",
       "shipping-simulator",
-      "share#default"
+      "share#default",
+      "countdown.title",
+      "countdown"
     ]
   },
   "product-price#product-details": {
